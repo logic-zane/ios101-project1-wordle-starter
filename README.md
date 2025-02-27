@@ -8,9 +8,10 @@ Submitted by: Jinlong Zhang
 
 This Wordle app is a Swift-based iOS game where players try to guess a hidden 5-letter word within six attempts. 
 It features:
-  Keyboard Input: Players can tap letters on an on-screen keyboard to input their guesses.
-  Board Display: A grid-based board updates as players enter guesses.
-  Letter Feedback: Cells change color based on correctness:
+
+Keyboard Input: Players can tap letters on an on-screen keyboard to input their guesses.
+Board Display: A grid-based board updates as players enter guesses.
+Letter Feedback: Cells change color based on correctness:
       Gray (incorrect letter)
       Yellow (correct letter, wrong position)
       Green (correct letter, right position)
