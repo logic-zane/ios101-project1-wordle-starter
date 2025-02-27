@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "Hopstarter-3d-Cartoon-Axialis-Icon-Workshop.256.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Screenshot 2025-02-26 at 3.16.12 PM.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
